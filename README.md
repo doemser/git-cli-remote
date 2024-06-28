@@ -4,4 +4,4 @@ Brokkoli ist ein gutes Kraut.
 
 > 🥦
 
-Änderung auf dem feature branch
+Changes on a branch
